@@ -69,18 +69,9 @@ Seja criativo!
 
 # Exercício
 
-Para responder este exercício, primeiramente, você deve fazer um `fork` deste repositório.
-No Moodle, você deve submeter apenas a URL do seu `fork`.
+1. Repositório selecionado: https://github.com/pandas-dev/pandas
 
-Em seguida, adicione o arquivo gerado `index.html` no seu fork.
+2. Gráfico selecionado: Lines of code (LOC)
 
-Por fim, responda as questões abaixo no seu `fork`: 
-
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
-  
-3. Explicação: <EXPLICACAO_AQUI>
-
-
-
+3. Explicação:
+O gráfico “Lines of code (LOC)” mostra a evolução do número total de linhas de código no repositório pandas entre os anos de 2020 e 2025. Observa-se um crescimento contínuo de 423.350 LOC em 2020 para 625.991 LOC em 2024, o que indica um período de desenvolvimento ativo e expansão do projeto. No entanto, em 2025, há uma leve redução para 623.435 LOC. Essa pequena queda pode estar relacionada à remoção de código obsoleto, à refatoração de trechos redundantes ou à reestruturação interna, o que é comum em projetos maduros que buscam melhorar a qualidade e a manutenibilidade do código. A curva, de modo geral, segue um padrão compatível com boas práticas de engenharia de software, alternando entre expansão e consolidação do código.
